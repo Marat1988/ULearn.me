@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\2.Variable\bin\Debug\2.Variable.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\2.Variable\bin\Debug\2.Variable.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\2.Variable\bin\Debug\2.Variable.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\2.Variable\obj\Debug\2.Variable.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\2.Variable\obj\Debug\2.Variable.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\2.Variable\obj\Debug\2.Variable.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\2.Variable\obj\Debug\2.Variable.pdb

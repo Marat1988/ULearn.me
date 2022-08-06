@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\1.Hello\bin\Debug\1.Hello.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\1.Hello\bin\Debug\1.Hello.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\1.Hello\bin\Debug\1.Hello.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\1.Hello\obj\Debug\1.Hello.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\1.Hello\obj\Debug\1.Hello.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\1.Hello\obj\Debug\1.Hello.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\1.Hello\obj\Debug\1.Hello.pdb
