@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\7.TaskSeminar\bin\Debug\7.TaskSeminar.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\7.TaskSeminar\bin\Debug\7.TaskSeminar.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\7.TaskSeminar\bin\Debug\7.TaskSeminar.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\7.TaskSeminar\obj\Debug\7.TaskSeminar.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\7.TaskSeminar\obj\Debug\7.TaskSeminar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\7.TaskSeminar\obj\Debug\7.TaskSeminar.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\7.TaskSeminar\obj\Debug\7.TaskSeminar.pdb
