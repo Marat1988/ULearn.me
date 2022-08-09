@@ -36,15 +36,12 @@ namespace _7.TaskSeminar
             Console.WriteLine($"{hour} часов -> " + (hour > 6 ? (360 - ((hour - 12) * 30)) : (hour * 30)) + " градусов");
         }
         /*Expr4. Найти количество чисел меньших N, которые имеют простые делители X или Y.*/
-        static void task4(int countNumber = 20, int x = 3, int y = 5)
+        static void task4(int countNumber = 20, int x = 2, int y = 4)
         {
             int count = 0;
             for (int i = 1; i < countNumber; i++)
                 if ((i % x == 0) || (i % y == 0)) count++;
             Console.WriteLine(count);
-            /*Не надо. Надо найти количество чисел, кратных X, добавить количество чисел кратных Y и вычесть количество чисел кратных X*Y. Задача решается без циклов, одной формулой.
-N=20, X=3, Y=5
-⌊19/3⌋ + ⌊19/5⌋ - ⌊19/15⌋ = 6 + 3 - 1 = 8 */
         }
         static void Main(string[] args)
         {
