@@ -36,12 +36,16 @@ namespace _7.TaskSeminar
             Console.WriteLine($"{hour} часов -> " + (hour > 6 ? (360 - ((hour - 12) * 30)) : (hour * 30)) + " градусов");
         }
         /*Expr4. Найти количество чисел меньших N, которые имеют простые делители X или Y.*/
-        static void task4(int countNumber = 20, int x = 2, int y = 4)
+        static void task4(int countNumber = 20, int x = 3, int y = 5)
         {
-            int count = 0;
-            for (int i = 1; i < countNumber; i++)
-                if ((i % x == 0) || (i % y == 0)) count++;
-            Console.WriteLine(count);
+            /*Работает при условии, что x и у являются простыми числами*/
+            countNumber--;
+            Console.WriteLine(countNumber / x + countNumber / y - (countNumber / (x * y)));
+        }
+        /*Expr5. Найти количество високосных лет на отрезке [a, b] не используя циклы.*/
+        static void task5(int beginYear = 1900, int endYear = 2022)
+        {
+            Console.WriteLine(Enumerable.Range(beginYear, (endYear - beginYear + 1)).Where(i => DateTime.IsLeapYear(i) == true).Count());
         }
         static void Main(string[] args)
         {
@@ -52,7 +56,8 @@ namespace _7.TaskSeminar
             task3(20);
             Console.WriteLine("=====================================================");
             task4();
-
+            Console.WriteLine("=====================================================");
+            task5();
         }
     }
 }
