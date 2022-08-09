@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\8.MinimumFunction\bin\Debug\8.MinimumFunction.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\8.MinimumFunction\bin\Debug\8.MinimumFunction.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\8.MinimumFunction\bin\Debug\8.MinimumFunction.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\8.MinimumFunction\obj\Debug\8.MinimumFunction.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\8.MinimumFunction\obj\Debug\8.MinimumFunction.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\8.MinimumFunction\obj\Debug\8.MinimumFunction.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\8.MinimumFunction\obj\Debug\8.MinimumFunction.pdb
