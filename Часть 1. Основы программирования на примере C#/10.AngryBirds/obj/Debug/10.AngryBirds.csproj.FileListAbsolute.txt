@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\10.AngryBirds\bin\Debug\10.AngryBirds.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\10.AngryBirds\bin\Debug\10.AngryBirds.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\10.AngryBirds\bin\Debug\10.AngryBirds.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\10.AngryBirds\obj\Debug\10.AngryBirds.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\10.AngryBirds\obj\Debug\10.AngryBirds.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\10.AngryBirds\obj\Debug\10.AngryBirds.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\10.AngryBirds\obj\Debug\10.AngryBirds.pdb
