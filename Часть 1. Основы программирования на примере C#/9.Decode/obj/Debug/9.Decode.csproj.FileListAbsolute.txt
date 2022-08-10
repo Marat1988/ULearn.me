@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\9.Decode\bin\Debug\9.Decode.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\9.Decode\bin\Debug\9.Decode.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\9.Decode\bin\Debug\9.Decode.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\9.Decode\obj\Debug\9.Decode.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\9.Decode\obj\Debug\9.Decode.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\9.Decode\obj\Debug\9.Decode.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\9.Decode\obj\Debug\9.Decode.pdb
