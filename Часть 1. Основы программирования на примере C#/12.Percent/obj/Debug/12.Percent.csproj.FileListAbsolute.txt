@@ -1,0 +1,2 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\12.Percent\obj\Debug\12.Percent.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\12.Percent\obj\Debug\12.Percent.csproj.CoreCompileInputs.cache
