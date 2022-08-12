@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\14.IsLeapYear\bin\Debug\14.IsLeapYear.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\14.IsLeapYear\bin\Debug\14.IsLeapYear.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\14.IsLeapYear\bin\Debug\14.IsLeapYear.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\14.IsLeapYear\obj\Debug\14.IsLeapYear.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\14.IsLeapYear\obj\Debug\14.IsLeapYear.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\14.IsLeapYear\obj\Debug\14.IsLeapYear.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\14.IsLeapYear\obj\Debug\14.IsLeapYear.pdb
