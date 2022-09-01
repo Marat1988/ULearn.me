@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\RemoveStartSpaces\bin\Debug\RemoveStartSpaces.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\RemoveStartSpaces\bin\Debug\RemoveStartSpaces.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\RemoveStartSpaces\bin\Debug\RemoveStartSpaces.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\RemoveStartSpaces\obj\Debug\RemoveStartSpaces.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\RemoveStartSpaces\obj\Debug\RemoveStartSpaces.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\RemoveStartSpaces\obj\Debug\RemoveStartSpaces.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\RemoveStartSpaces\obj\Debug\RemoveStartSpaces.pdb
