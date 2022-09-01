@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\4.WriteBoard\bin\Debug\4.WriteBoard.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\4.WriteBoard\bin\Debug\4.WriteBoard.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\4.WriteBoard\bin\Debug\4.WriteBoard.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\4.WriteBoard\obj\Debug\4.WriteBoard.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\4.WriteBoard\obj\Debug\4.WriteBoard.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\4.WriteBoard\obj\Debug\4.WriteBoard.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\4.WriteBoard\obj\Debug\4.WriteBoard.pdb
