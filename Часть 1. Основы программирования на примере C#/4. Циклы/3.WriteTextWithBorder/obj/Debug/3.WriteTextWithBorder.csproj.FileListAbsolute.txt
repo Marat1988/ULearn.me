@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\3.WriteTextWithBorder\bin\Debug\3.WriteTextWithBorder.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\3.WriteTextWithBorder\bin\Debug\3.WriteTextWithBorder.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\3.WriteTextWithBorder\bin\Debug\3.WriteTextWithBorder.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\3.WriteTextWithBorder\obj\Debug\3.WriteTextWithBorder.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\3.WriteTextWithBorder\obj\Debug\3.WriteTextWithBorder.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\3.WriteTextWithBorder\obj\Debug\3.WriteTextWithBorder.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\4. Циклы\3.WriteTextWithBorder\obj\Debug\3.WriteTextWithBorder.pdb
