@@ -18,7 +18,7 @@ namespace Fractals
 				y1 = (x * Math.Sin(Math.PI / 4) + y * Math.Cos(Math.PI / 4)) / Math.Sqrt(2);
 				x = x1;
 				y = y1;
-				pixels.SetPixel(x, y);
+				pixels.SetPixel(x, y);				
 			}
 		}
 	}
