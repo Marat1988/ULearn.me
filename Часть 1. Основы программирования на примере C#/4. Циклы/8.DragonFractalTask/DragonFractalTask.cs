@@ -19,6 +19,7 @@ namespace Fractals
 				x = x1;
 				y = y1;
 				pixels.SetPixel(x, y);
+				
 			}
 		}
 	}
