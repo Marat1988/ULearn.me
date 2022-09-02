@@ -9,8 +9,8 @@
 		}
 		public static void MoveOut(Robot robot, int width, int height)
 		{
-            while (true)
-            {			
+			while (true)
+			{
 				for (int i = robot.X; i < width - 2; i++)
 					robot.MoveTo(Direction.Right);
 				MoveDown(robot);
