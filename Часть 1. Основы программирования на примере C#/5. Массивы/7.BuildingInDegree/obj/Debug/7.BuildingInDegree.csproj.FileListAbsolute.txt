@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\7.BuildingInDegree\bin\Debug\7.BuildingInDegree.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\7.BuildingInDegree\bin\Debug\7.BuildingInDegree.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\7.BuildingInDegree\bin\Debug\7.BuildingInDegree.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\7.BuildingInDegree\obj\Debug\7.BuildingInDegree.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\7.BuildingInDegree\obj\Debug\7.BuildingInDegree.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\7.BuildingInDegree\obj\Debug\7.BuildingInDegree.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\7.BuildingInDegree\obj\Debug\7.BuildingInDegree.pdb
