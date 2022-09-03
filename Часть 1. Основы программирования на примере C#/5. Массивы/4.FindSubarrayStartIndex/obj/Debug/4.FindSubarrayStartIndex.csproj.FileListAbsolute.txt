@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\4.FindSubarrayStartIndex\bin\Debug\4.FindSubarrayStartIndex.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\4.FindSubarrayStartIndex\bin\Debug\4.FindSubarrayStartIndex.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\4.FindSubarrayStartIndex\bin\Debug\4.FindSubarrayStartIndex.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\4.FindSubarrayStartIndex\obj\Debug\4.FindSubarrayStartIndex.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\4.FindSubarrayStartIndex\obj\Debug\4.FindSubarrayStartIndex.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\4.FindSubarrayStartIndex\obj\Debug\4.FindSubarrayStartIndex.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\4.FindSubarrayStartIndex\obj\Debug\4.FindSubarrayStartIndex.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\2.IndexMax\bin\Debug\2.IndexMax.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\2.IndexMax\bin\Debug\2.IndexMax.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\2.IndexMax\bin\Debug\2.IndexMax.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\2.IndexMax\obj\Debug\2.IndexMax.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\2.IndexMax\obj\Debug\2.IndexMax.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\2.IndexMax\obj\Debug\2.IndexMax.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\2.IndexMax\obj\Debug\2.IndexMax.pdb

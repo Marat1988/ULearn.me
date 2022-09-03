@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\3.CounterElements\bin\Debug\3.CounterElements.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\3.CounterElements\bin\Debug\3.CounterElements.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\3.CounterElements\bin\Debug\3.CounterElements.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\3.CounterElements\obj\Debug\3.CounterElements.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\3.CounterElements\obj\Debug\3.CounterElements.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\3.CounterElements\obj\Debug\3.CounterElements.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\3.CounterElements\obj\Debug\3.CounterElements.pdb
