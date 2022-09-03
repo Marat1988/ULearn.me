@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\5.TaroMaps\bin\Debug\5.TaroMaps.exe.config
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\5.TaroMaps\bin\Debug\5.TaroMaps.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\5.TaroMaps\bin\Debug\5.TaroMaps.pdb
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\5.TaroMaps\obj\Debug\5.TaroMaps.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\5.TaroMaps\obj\Debug\5.TaroMaps.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\5.TaroMaps\obj\Debug\5.TaroMaps.exe
+C:\Users\HP\Documents\GitHub\ULearn.me\Часть 1. Основы программирования на примере C#\5. Массивы\5.TaroMaps\obj\Debug\5.TaroMaps.pdb
